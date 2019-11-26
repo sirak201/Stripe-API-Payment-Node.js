@@ -1,0 +1,17 @@
+{
+  "name": "stripe_project",
+  "version": "1.0.0",
+  "description": "Stripe_Api Practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sirak Zeray",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "stripe": "^7.13.1"
+  }
+}
